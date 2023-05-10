@@ -67,6 +67,32 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## usage
+
+***
+
+Here are the screenshots of the refactored page (up) and the old page (bottom) in full view. Layout elements like the<br>
+header (heading + navigation), the main image, the main body with three sections, the aside container that also comes<br>
+with three sections and the footer were treated distinctively so as to improve their hierarchy and readability.<br>
+Best viewed at full screen, 16:10 aspect ratio.
+<br>
+
+![alt text](assets/images/scrshot-page.png)
+<br>
+<br>
+
+![alt text](assets/images/scrshot-page-old.png)
+<br>
+<br>
+
+"The title tag is an important SEO ranking signal and a key contributor to your click through rates." states website.com<br/>
+in its web site listed among the references below. There was no title element to begin with so it was defined to reflect<br/>
+the page's identity as much as possible.
+<br>
+
+![alt text](assets/images/scrshot-title.png)
+<br>
+<br>
 
 ## Mock-Up
 
